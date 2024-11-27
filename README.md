@@ -1,9 +1,9 @@
 A simple JAVA LIBRARY SYSTEM 
 
 Implemented the following options:
-Add Books
-Borrow Books
-Return Books
+Add Books,
+Borrow Books,
+Return Books and  
 Exit
 
 1.Add Books:
